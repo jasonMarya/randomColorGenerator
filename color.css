@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+}
+
+#h1{
+    font-weight: 600;
+    position: relative;
+    top: 12px;
+    font-size: 23px;
+}
+
+.div{
+    position: relative;
+    top: 36px;
+    height: 50vh;
+    width: 80vw;
+    border: 1px solid black;
+    margin: auto;
+    border: none;
+    outline: none;
+    border-radius: 6em;
+    border-top: 1px solid blue ;
+    
+}
+#btn{
+    position: relative;
+    top: 60px;
+    height: 35px;
+    font-weight: 600;
+    width: 125px;
+    font-size: 17px;
+    color: blue;
+    border: none;
+    outline: none;
+    border-radius: 12px;
+    border: 1px solid blue;
+}
